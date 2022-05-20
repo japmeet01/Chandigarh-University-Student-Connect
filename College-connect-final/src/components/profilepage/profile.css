@@ -1,0 +1,95 @@
+
+
+.Section_overview {
+    width: 100%;
+    margin: 0px;
+    background: #fff;
+  }
+  a.Bells_icons img {
+    margin-top: 45px;
+    margin-right: 30px;
+    width: 5%;
+  }
+  a.Logout_icons img {
+    margin-top: 45px;
+    width: 5%;
+  }
+  .row.Search_area h1 {
+    color: #FFE200;
+    font-size: 30px;
+    padding-top: 38px;
+    font-weight: bold;
+  }
+  .Search_area h2 {
+    float: right;
+    padding-top: 46px;
+    font-size: 16px;
+    position: relative;
+    color: #2A242E;
+    font-weight: 600;
+  }
+  .Search_area h2::before {
+    content: '';
+    position: absolute;
+    background: #eeeeee;
+    height: 41px;
+    left: -50px;
+    bottom: -12px;
+    width: 44px;
+    border-radius: 20px;
+  }
+  .Search_area input.Search_area {
+    width: 80%;
+    padding: 15px 14px;
+    margin: 30px 0px;
+    border-radius: 16px;
+    border: none;
+    background: #F7F7F8;
+    font-size: 14px;
+    outline: none;
+    font-weight: 400;
+  }
+  .bottom_content {
+    width: 100%;
+  
+  }
+  .row.Sucess_boxes {
+    width: 100%;
+  }
+  
+  .Income.col-lg-4.col-sm-12 {
+    background: #fff;
+    flex: 0 0 auto;
+    width: 27%;
+    margin-right: 40px;
+    border: 1px solid #ffffff6e;
+    border-radius: 10px;
+    padding: 10px 10px;
+  }
+  .Income img {
+    margin-right: 10px;
+  }
+  .Income h2 {
+    font-size: 20px;
+    color: #6e6571;
+    font-weight: bold;
+  }
+  .first.col-lg-6 {
+    width: 70%;
+    margin-top: 50px;
+  }
+  .first.col-lg-6 h1 {
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 12px;
+    color: #2A242E;
+  }
+  .second.col-lg-6 {
+    width: 30%;
+    background: #fff;
+  }
+  .row.graph {
+    width: 100%;
+    padding: 40px 0px;
+  }
+  
